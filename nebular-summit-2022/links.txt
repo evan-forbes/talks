@@ -1,0 +1,6 @@
+Celestia blog: blog.celestia.org
+Celestia website (lots of resources): celestia.org/resources
+
+Sergio's ABCI++ talk: https://www.youtube.com/watch?v=cAR57hZaJtM
+Callum's ABCI++ talk: https://www.youtube.com/watch?v=UuDrSpo_Q-I
+ABCI++ specs: https://github.com/tendermint/tendermint/tree/master/spec/abci%2B%2B
